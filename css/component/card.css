@@ -8,7 +8,7 @@
     box-shadow: 0 7px 30px rgba(50,50,95,.1);
     width: 500px;
     margin: 30px auto;
-    opacity: 0.92;
+   	opacity: 0.92;
 }
 .card img {
  	width: 100px;
@@ -32,4 +32,5 @@
   flex-basis: 250px;
 	flex-grow: 1;
 	margin: 10px;
+	align-items: center;
 }
